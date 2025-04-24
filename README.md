@@ -95,8 +95,13 @@ npm run build
 ```bash
 php artisan serve
 ```
-
 The application will be available at http://localhost:8000
+
+10. Run vite server also:
+    ```bash
+    npm run dev
+    ```
+The server will be available at http://localhost:5173
 
 ## Database Structure
 
