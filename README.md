@@ -227,4 +227,4 @@ php artisan view:cache
 MIT License
 
 ## Support
-For any issues or questions, please contact [mwangeamusa@gmail.com]
+For any issues or questions, please contact 
